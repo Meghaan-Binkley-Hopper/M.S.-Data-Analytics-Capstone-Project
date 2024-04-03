@@ -15,6 +15,7 @@ model to project future enrollment at Northwest Missouri State University.
 1. Pandas
 2. Matplotlib.pyplot
 3. Scikit-learn
+4. Numpy
 
 ### Getting Started:
 1. Download Excel files
@@ -31,4 +32,5 @@ model to project future enrollment at Northwest Missouri State University.
 1. Final Paper
 2. Excel Data File
 3. Tableau Workbook
-4. Python ML Model
+4. Python EDA Model
+5. Python ML Model
