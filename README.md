@@ -36,7 +36,11 @@ Abstract: This project analyzes enrollment trends for public 4-year universities
 ### Key Elements from Project
 #### 1. Exploratory Data Analysis
 - Python
-  ![Model](Paste_link_here)
+  ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/IPEDS_DescriptiveCode.png)
+  ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/IPEDS_DescriptiveStats.png)
 - Excel
+  ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/First-TimeFreshmanEnrollment.png)
 - Tableau
+  ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/EnrollmentComparison_Northwest.png)
+  !{Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/EnrollmentComparisons_OtherUniversities.png)
 #### 2. Machine Learning Models
