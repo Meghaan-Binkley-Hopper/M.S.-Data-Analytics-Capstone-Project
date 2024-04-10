@@ -44,7 +44,8 @@ Abstract: This project analyzes enrollment trends for public 4-year universities
   ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/First-TimeFreshmanEnrollment.png)
 
 - Tableau
-  
+
+  ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/Treemap_TotalUniversityEnrollment.png)
   ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/EnrollmentComparison_Northwest.png)
   ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/EnrollmentComparisons_OtherUniversities.png)
 
