@@ -37,28 +37,29 @@ Abstract: This project analyzes enrollment trends for public 4-year universities
 #### 1. Exploratory Data Analysis
 - Python
   
-  ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/IPEDS_DescriptiveCode.png)
-  ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/IPEDS_DescriptiveStats.png)
+   ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/IPEDS_DescriptiveStats.png)
+
 - Excel
   
   ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/First-TimeFreshmanEnrollment.png)
+
 - Tableau
   
   ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/EnrollmentComparison_Northwest.png)
   ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/EDA/EnrollmentComparisons_OtherUniversities.png)
+
 #### 2. Machine Learning Models
 - Data Set
   
  ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/ML/MLData.png)
 - Linear Regression Model
   
- ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/ML/Code_LinearRegressionModel.png)
-![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/ML/Code_LinearRegressionPlot.png)
+ ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/ML/LinearRegressionPlot.png)
+ 
 - Polynomial Regression Model
   
-  ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/ML/Code_PolynomialRegressionModel.png)
-  ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/ML/Code_PolynomialRegressionPlot.png)
+  ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/ML/PolynomialRegressionPlot.png)
+  
 - Elastic Net Model with Polynomial Features
   
-  ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/ML/Code_ElasticNetModel.png)
-  ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/ML/Code_ElasticNetPlot.png)
+  ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/ML/ElasticNetPlot.png)
