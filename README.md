@@ -24,7 +24,11 @@ Abstract: This project analyzes enrollment trends for public 4-year universities
 
 ### Data Sources:
 1. IPEDS: https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx?goToReportId=6&sid=53438544-0098-407a-980b-873e8925519a&rtid=6
-2. DESE: https://apps.dese.mo.gov/MCDS/Reports/SSRS_Print.aspx?Reportid=84d85ca8-c722-4f9b-9935-70d36a53cf54 
+2. DESE: https://apps.dese.mo.gov/MCDS/Reports/SSRS_Print.aspx?Reportid=84d85ca8-c722-4f9b-9935-70d36a53cf54
+
+### Project Links:
+1. Overleaf: https://www.overleaf.com/read/cffnqbsdgmdh#d6efcd 
+2. Tableau Public: https://public.tableau.com/views/Binkley-Hopper_CapstoneTableau/Treemap_UniversityEnrollment?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ### Contents: 
 1. Final Paper: Meghaan Binkley-Hopper Capstone Project Report
