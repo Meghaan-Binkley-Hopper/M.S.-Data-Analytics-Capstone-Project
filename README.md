@@ -68,3 +68,8 @@ Abstract: This project analyzes enrollment trends for public 4-year universities
 - Elastic Net Model with Polynomial Features
   
   ![Model](https://github.com/Meghaan-Binkley-Hopper/M.S.-Data-Analytics-Capstone-Project/blob/main/PNG/ML/ElasticNetPlot.png)
+
+   ### Additional Resources:
+ 1. https://www.geeksforgeeks.org/python-pandas-dataframe-set_index/
+ 2. https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html
+ 3. https://matplotlib.org/stable/tutorials/pyplot.html
